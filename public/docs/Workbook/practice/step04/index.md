@@ -1,54 +1,35 @@
 ## 最新の変更を取り込む
 
-以下のことをやってみましょう。  
-※ ここからは、またターミナルでの作業になります。
+以下のことを行ってください。  
+※ ここからはまたターミナルでの作業になります。
 
-### 01. ブランチをチェックアウト
+### step. 01.
+develop ブランチに作業ブランチを切り替えてください。
 
-develop ブランチをチェックアウトしてください。
+### step. 02
+ローカルでマージして不要となった feature/create-todo-app ブランチを削除してください。
 
-<br>
+### step. 03
+ローカルリポジトリの履歴を最新にしてください。
 
-### 02. ローカルリポジトリで不要になったブランチを削除
+### step. 04
+develop ブランチを最新の状態にしてください。
 
-マージして不要となった feature/create-todo-app ブランチを削除してください。  
-またブランチが消えていることを確認してください。
+### step. 05
+feature/create-components ブランチに作業ブランチを切り替えてください。
 
-<br>
-
-### 03. 履歴の更新
-
-リモートリポジトリの履歴をローカルリポジトリに取り込んで、最新の履歴状態にしてください。
-
-<br>
-
-### 04. 最新のコードを取り込み
-
-ローカルリポジトリに、リモートリポジトリの最新コードを取り込んでください。
-
-<br>
-
-### 05. 作業ブランチにチェックアウトする
-
-feature/create-components ブランチをチェックアウトしてください。
-
-<br>
-
-### 06. ローカルリポジトリ内で作業ブランチを最新化する
-
+### step. 06
 develop ブランチから feature/create-components ブランチに最新の変更を取り込んでください。
 
-<br>
-
-## 前へ
+## Previous Practice
 
 ← [Github でプルリクエストの作成・マージ](/public/docs/Workbook/practice/step03/index.md)
 
-## 次へ
+## Next Practice
 
 [step04 までの復習](/public/docs/Workbook/practice/step05/index.md) →
 
-## 答え
+## answer
 
-答えは[こちら](/public/docs/Workbook/answer/step04/index.md)を確認してください。
+答えは[こちら](/public/docs/training/answer/step04/index.md)を確認してください。
 
